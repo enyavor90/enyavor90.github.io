@@ -4,7 +4,7 @@ layout: single
 permalink: /about/
 
 # Includes author profile in sidebar
-author: First M. Last
+author: Emmanuel Nyavor
 author_profile: true
 
 classes: wide
@@ -16,9 +16,11 @@ header:
   caption: "Park Reserve in Pensacola, 2/2/2025"
 excerpt: I am a gopher tortoise working as a geoscientist at the University of Florida. My research focuses on rock fracture and erosion driven by climate and water forces. I am passionate about understanding how these processes shape our environment.
 ---
-* PhD, University of Florida
-  * Thesis: <i>"Investigating the interactions between geological processes and environmental change: A study of rock formation, erosion, and landscape evolution"</i>
-* BSc, Augustana College, <i>Geology</i>
+* PhD, Geological Sciences, University of Florida
+  * Thesis: <i>"Enhanced weathering of basaltic rocks for soil health and carbon dioxide removal"</i>
+* MPhil, Geology, University of Ghana
+  * Thesis: <i>"Structurl and petrologic evolutiion of the internal unit of the Pan-African Dahomeyide belt, southeastern Ghana"</i>
+* BSc, Earth Science, University of Ghana, <i>Geology</i>
 
 <b>Contact: <a href="mailto:email@example.com">gopher@example.com</a></b> 
 
