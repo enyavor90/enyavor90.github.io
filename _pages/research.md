@@ -42,11 +42,11 @@ feature_row2:
 
 ---
 
-Geoscientific research encompasses a wide range of topics, including river dynamics, sedimentology, volcanic processes, and landscape evolution. Our interests span the investigation of how natural forces shape the Earth's surface, the interaction between water and rock, and the long-term impacts of geological events on ecosystems.
+I am a geoscientist with research interests spanning structural geology, tectonics, petrology, geochemistry, and economic geology. My earlier work examined the structure and tectonic evolution of the Pan-African Dahomeyide Belt and the adjacent Voltaian Sedimentary Basin. I also maintain a strong interest in mineral deposits, including gold, as well as critical minerals such as lithium and rare earth elements. My current research focuses on optimizing basaltic rock powders in agricultural and forest ecosystems to improve soil health and enhance CO₂ sequestration. A key component of this work explores the tripartite potential of carbonatitic and ultramafic rocks—agronomic benefits, CO₂ removal, and critical mineral resources—while carefully assessing the potential release of potentially toxic elements (PTEs) into the environment.
 
-**Featured Project: Subsurface Mapping of Ancient River Channels**
+**Featured Project: Optimizing Portable XRF for Geochemical Analysis**
 
-We are currently developing a project focused on using ground-penetrating radar and sediment core analysis to map buried river channels in the Upper Midwest. This research aims to reconstruct paleoenvironments, understand historical water flow patterns, and assess how ancient rivers influenced present-day landforms and groundwater resources.
+We are developing a technique that calibrates the pXRF to produce major and trace element concentrations comparable to those obtained by established geochemical methods such as XRF and ICP-MS. The project involves preparing and testing rock standards and reference materials, and comparing the concentrations measured by pXRF to certified values. This calibration will enable us to confidently use the pXRF to analyze rocks of unknown geochemical composition, while providing the added benefits of faster and more cost-effective analyses compared to traditional laboratory methods.
 
 <p style="font-size: 1.5rem; font-weight: bold">Current Projects</p>
 {% include feature_row id="feature_row" %}
