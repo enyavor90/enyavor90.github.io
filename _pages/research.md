@@ -8,7 +8,7 @@ header:
   actions:
   #  - label: "Get started"
   #    url: "/test/"
-  caption: "River Motion, Minnesota"
+  caption: "River Motion, Minnesota":
 I am a geoscientist with research interests spanning structural geology, tectonics, petrology, geochemistry, and economic geology. My earlier work examined the structure and tectonic evolution of the Pan-African Dahomeyide Belt and the adjacent Voltaian Sedimentary Basin. My current research focuses on optimizing basaltic rock powders in agricultural and forest ecosystems to improve soil health and enhance CO₂ sequestration. A key component of this work explores the tripartite potential of carbonatitic and ultramafic rocks—agronomic benefits, CO₂ removal, and critical mineral resources—while carefully assessing the potential release of potentially toxic elements (PTEs) into the environment.
 permalink: /research/
 
