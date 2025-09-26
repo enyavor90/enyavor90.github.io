@@ -14,7 +14,7 @@ header:
   overlay_filter: "0.5"
   overlay_image: /assets/images/image.png
   caption: "Park Reserve in Pensacola, 2/2/2025"
-excerpt: I am a Ph.D student in the Departnebt of Geological Sciences, at the University of Florida. My current research focuses on enhanced weathering of basaltic rocks for soil health and carbon dioxide removal. I am passionate about how geology contributes towards a sustainable agriculture and averts climate change while ensuring safe environmental practices. 
+excerpt: I am a Ph.D. student in the Department of Geological Sciences at the University of Florida. My current research focuses on the enhanced weathering of basaltic rocks for soil health and carbon dioxide removal. I am passionate about how geology contributes to sustainable agriculture and helps mitigate climate change while ensuring safe environmental practices.
 ---
 * PhD, Geological Sciences, University of Florida
   * Dissertation: <i>"Enhanced weathering of basaltic rocks for soil health and carbon dioxide removal"</i>
