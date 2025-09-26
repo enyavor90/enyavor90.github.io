@@ -9,7 +9,7 @@ header:
   #  - label: "Get started"
   #    url: "/test/"
   caption: "River Motion, Minnesota"
-excerpt: Geoscientists study how rivers shape landscapes through erosion, sediment transport, and deposition. River erosion carves valleys, forms channels, and exposes bedrock, while processes like rock fracturing influence the development of landforms and the movement of water and sediments over time.
+I am a geoscientist with research interests spanning structural geology, tectonics, petrology, geochemistry, and economic geology. My earlier work examined the structure and tectonic evolution of the Pan-African Dahomeyide Belt and the adjacent Voltaian Sedimentary Basin. I also maintain a strong interest in mineral deposits, including gold, as well as critical minerals such as lithium and rare earth elements. My current research focuses on optimizing basaltic rock powders in agricultural and forest ecosystems to improve soil health and enhance CO₂ sequestration. A key component of this work explores the tripartite potential of carbonatitic and ultramafic rocks—agronomic benefits, CO₂ removal, and critical mineral resources—while carefully assessing the potential release of potentially toxic elements (PTEs) into the environment.
 permalink: /research/
 
 feature_row:
@@ -42,7 +42,12 @@ feature_row2:
 
 ---
 
-I am a geoscientist with research interests spanning structural geology, tectonics, petrology, geochemistry, and economic geology. My earlier work examined the structure and tectonic evolution of the Pan-African Dahomeyide Belt and the adjacent Voltaian Sedimentary Basin. I also maintain a strong interest in mineral deposits, including gold, as well as critical minerals such as lithium and rare earth elements. My current research focuses on optimizing basaltic rock powders in agricultural and forest ecosystems to improve soil health and enhance CO₂ sequestration. A key component of this work explores the tripartite potential of carbonatitic and ultramafic rocks—agronomic benefits, CO₂ removal, and critical mineral resources—while carefully assessing the potential release of potentially toxic elements (PTEs) into the environment.
+Structural Geology and Tectonics
+Petrology and Geochemistry
+Volcanic Soil Amaendments
+Soil Health Improvement
+CO2 Sequestration
+Economic Geology
 
 **Featured Project: Optimizing Portable XRF for Geochemical Analysis**
 
