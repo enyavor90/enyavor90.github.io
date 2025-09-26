@@ -1,6 +1,6 @@
 # /_data/authors.yml
 
-First M. Last:
+Emmanuel Nyavor:
   name             : "Emmanuel Nyavor"
   avatar           : "/assets/images/about.png" # path of avatar image, e.g. "/assets/images/avatar.png"
   bio              : "<br/>Department of Earth & Planetary Sciences, University of Flor<br/>"
